@@ -64,7 +64,6 @@
     // inicio main_4
     main .potcast{
         width: 100%;
-        //height: calc(1203.5px + 519px - 91px); 
     }
     main .potcast .contenedor{
         background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
@@ -142,8 +141,6 @@
 
     // inicio main_6
     main .historia .venimos{ 
-        //display: inline-block;
-        //width: 100%;
         min-width: 288px;
         min-height: 84px;
         margin: -68.5px 16px 8px 16px;
@@ -422,7 +419,7 @@
                 
         .gap{
             width: calc(100% - 200px);
-            margin-left: 100px; /*deberia ser 100px*/
+            margin-left: 100px; 
             margin-top:26px;
     
             
@@ -464,7 +461,6 @@
         
         position: relative;
         bottom: 168.2px;
-        //margin-top: -168.2px;
         margin-right: 200px;
         width:100%;
         display: flex;
@@ -628,7 +624,6 @@ main .novedades{
 footer{
     height: 95px;
     width: 100%;
-    //padding-right: 64px;
     padding-left: 5vw;
     padding-top: 36px;
     
@@ -801,7 +796,7 @@ footer{
                 
         .gap{
             width: calc(100% - 200px);
-            margin-left: 100px; /*deberia ser 100px*/
+            margin-left: 100px; 
             margin-top:26px;
     
             
@@ -843,7 +838,6 @@ footer{
         
         position: relative;
         bottom: 168.2px;
-        //margin-top: -168.2px;
         margin-right: 200px;
         display: flex;
         flex-flow: row;
@@ -1034,13 +1028,3 @@ footer{
     }
 }
 
-/*
-@media screen and (min-width: 770px) and (max-width: 860px) {
-    .parrafo{
-        font-size: 1vw;
-    }
-    .titulo{
-        font-size: 1.5vw;
-    }
-}
-*/
