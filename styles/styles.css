@@ -16,8 +16,6 @@
 /*font-family: 'IBM Plex Sans', sans-serif; -- semibold*/
 /*font-family: 'IBM Plex Mono', monospace;*/
 /*font-family: 'IBM Plex Mono', monospace;*/
-/*fin importar fuentes*/
-/*font-family: 'IBM Plex Mono', monospace; -- ibm Plex Mono Medium*/
 footer .padre-redes .box-r a {
   color: black;
 }
@@ -871,7 +869,6 @@ i:hover {
   main .potcast .contenedor .gap {
     width: calc(100% - 200px);
     margin-left: 100px;
-    /*deberia ser 100px*/
     margin-top: 26px;
     display: -ms-grid;
     display: grid;
@@ -1321,7 +1318,6 @@ i:hover {
   main .potcast .contenedor .gap {
     width: calc(100% - 200px);
     margin-left: 100px;
-    /*deberia ser 100px*/
     margin-top: 26px;
     display: -ms-grid;
     display: grid;
@@ -1423,7 +1419,7 @@ i:hover {
   }
   main .conten-inv img {
     width: 100%;
-    max-width: 499px;
+    max-width: 480px;
     min-height: 364px;
   }
   main .temas .tit-temas {
@@ -1590,15 +1586,4 @@ i:hover {
     font-size: 6vw;
   }
 }
-
-/*
-@media screen and (min-width: 770px) and (max-width: 860px) {
-    .parrafo{
-        font-size: 1vw;
-    }
-    .titulo{
-        font-size: 1.5vw;
-    }
-}
-*/
 /*# sourceMappingURL=styles.css.map */
